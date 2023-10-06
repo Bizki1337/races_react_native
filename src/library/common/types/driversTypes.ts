@@ -1,0 +1,5 @@
+export enum drivers {
+	REQUEST = 'DRIVERS/REQUEST',
+	SUCCESS = 'DRIVERS/SUCCESS',
+	FAILURE = 'DRIVERS/FAILURE',
+}
